@@ -110,7 +110,7 @@ This application runs entirely within AWS free tier limits:
 
 ## 👨‍💻 Author
 
-**Faizal Shaikh**
+**Yash kale**
 - GitHub: [@yashkale402](https://github.com/yashkale402)
 - LinkedIn: [Yash Kale](https://www.linkedin.com/in/yashkale001/)
 
